@@ -16,6 +16,15 @@ This expanded school builds on his original concept files. Project credited enti
 
 See [CREDITS.md](CREDITS.md) for attribution and provenance. Our own adaptation contributions are available under [MIT](LICENSE); pre-existing works retain their original rights. See [RIGHTS.md](RIGHTS.md) for the scope. Please preserve Keth’s origin credit in adaptations.
 
+## Language editions / Versions linguistiques
+
+| Edition | Online | Offline | Files |
+| --- | --- | --- | --- |
+| English | [Play](https://sheiszoe-art.github.io/open-sea-school/en/) | [Download ZIP](en/Open-Sea-School-English.zip) | [en/](en/) |
+| Français | [Jouer](https://sheiszoe-art.github.io/open-sea-school/fr/) | [Télécharger le ZIP](fr/Open-Sea-School-French.zip) | [fr/](fr/) |
+
+The French edition includes 810 courses, localized instructions and 80 adapted French jokes. English-language learning examples remain English. Each language uses a separate journal. Age bands remain flexible; translation does not certify compliance with French curricula. Root HTML URLs redirect to English for compatibility.
+
 ## Play
 
 https://sheiszoe-art.github.io/open-sea-school/
