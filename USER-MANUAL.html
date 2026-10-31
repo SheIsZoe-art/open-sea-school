@@ -2,7 +2,7 @@
 MIT applies to this adaptation's own contributions; pre-existing third-party rights remain.
 MIT License
 
-Copyright (c) 2026 SheIsZoe-art and The Sea University contributors
+Copyright (c) 2026 Keth — Keth'ar Molishé Nuvah'el (BEKW-code)
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
@@ -123,4 +123,4 @@ document.querySelectorAll('a[href^="#"]').forEach(a=>a.addEventListener('click',
 let printDetails=[],printSections=[];window.addEventListener('beforeprint',()=>{printSections=[...document.querySelectorAll('.manual-section')].map(s=>[s,s.hidden]);printSections.forEach(([s])=>s.hidden=false);printDetails=[...document.querySelectorAll('.manual-section details')].map(d=>[d,d.open]);printDetails.forEach(([d])=>d.open=true);});window.addEventListener('afterprint',()=>{printDetails.forEach(([d,open])=>d.open=open);printSections.forEach(([s,hidden])=>s.hidden=hidden);printDetails=[];printSections=[];});
 byId('print-manual').addEventListener('click',()=>{byId('manual-search').value='';filterManual();window.print();});
 if('IntersectionObserver' in window){const observer=new IntersectionObserver(entries=>{for(const entry of entries)if(entry.isIntersecting){document.querySelectorAll('.doc-sidebar nav a').forEach(a=>{let active=a.getAttribute('href')==='#'+entry.target.id;a.classList.toggle('active',active);if(active)a.setAttribute('aria-current','location');else a.removeAttribute('aria-current');});}},{rootMargin:'-15% 0px -65% 0px'});document.querySelectorAll('.manual-section').forEach(s=>observer.observe(s));}
-</script><div id="origin-credit" style="padding:16px 20px;text-align:center;font:14px/1.6 system-ui,sans-serif;background:#eef3ea;color:#123d46;border-top:1px solid #a8c4b6;clear:both"><a href="CREDITS.html" style="color:inherit;font-weight:700">Original idea: Keth · Origins & credits</a><span> · BEKW-code · </span><a href="RIGHTS.md" style="color:inherit">MIT &amp; rights</a></div></body></html>
+</script><div id="origin-credit" style="padding:16px 20px;text-align:center;font:14px/1.6 system-ui,sans-serif;background:#eef3ea;color:#123d46;border-top:1px solid #a8c4b6;clear:both"><a href="CREDITS.html" style="color:inherit;font-weight:700">A project by KETH · Credits</a><span> · BEKW-code · </span><a href="RIGHTS.md" style="color:inherit">MIT &amp; rights</a></div></body></html>

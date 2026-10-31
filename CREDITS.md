@@ -4,7 +4,7 @@ Original idea and foundational learning concepts: Keth — Keth'ar Molishé Nuva
 
 The Sea University / Open Sea School began with Keth's idea and the original concept files reef-ops.html, threshold-ops.html, tide-claws-subtraction.html and pitch-slope-tutorial.html. This expanded school builds on that starting point. This origin credit is based on the project creator's attribution; it does not imply that Keth authored, reviewed or endorsed every later course or implementation.
 
-Adaptation, curriculum expansion and publication: SheIsZoe-art, with AI-assisted development.
+Project credited entirely to KETH. SheIsZoe — production assistant, with AI-assisted development. “I loved lending a turn of the screwdriver for KETH. It is all his.”
 
 Please preserve the origin credit and reference this credits file when sharing or adapting the project. The MIT copyright and permission notices must be retained as required by that licence. This request for visible concept credit is an acknowledgement request, not an additional restriction on the MIT licence.
 

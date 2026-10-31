@@ -6,7 +6,7 @@ Playful ocean-themed learning with Captain Claw. 810 courses, nine subjects, app
 
 **Original idea and foundational learning concepts: [Keth — Keth'ar Molishé Nuvah'el (BEKW-code)](https://github.com/BEKW-code).**
 
-This expanded school builds on his original concept files. Adaptation and publication: SheIsZoe-art, with AI-assisted development.
+This expanded school builds on his original concept files. Project credited entirely to KETH. SheIsZoe — production assistant. “I loved lending a turn of the screwdriver for KETH. It is all his.”
 
 - [GitHub · code and projects](https://github.com/BEKW-code)
 - [GitHub Gists · experiments and shared ideas](https://gist.github.com/BEKW-code)
