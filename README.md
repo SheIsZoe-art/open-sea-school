@@ -2,6 +2,20 @@
 
 Playful ocean-themed learning with Captain Claw. 810 courses, nine subjects, approximate ages 6–15.
 
+## Origins & open source
+
+**Original idea and foundational learning concepts: [Keth — Keth'ar Molishé Nuvah'el (BEKW-code)](https://github.com/BEKW-code).**
+
+This expanded school builds on his original concept files. Adaptation and publication: SheIsZoe-art, with AI-assisted development.
+
+- [GitHub · code and projects](https://github.com/BEKW-code)
+- [GitHub Gists · experiments and shared ideas](https://gist.github.com/BEKW-code)
+- [NightCafe · visual work](https://creator.nightcafe.studio/u/KetharMolisheNuvahel)
+- [Suno · music](https://suno.com/@hardtogovern)
+- [EIN Presswire · artist profile / press release](https://www.einpresswire.com/article/944403908/the-eternal-wizard-king-builds-a-genre-defying-soundworld-from-ai-open-source-and-cosmic-stand-up)
+
+See [CREDITS.md](CREDITS.md) for attribution and provenance. Our own adaptation contributions are available under [MIT](LICENSE); pre-existing works retain their original rights. See [RIGHTS.md](RIGHTS.md) for the scope. Please preserve Keth’s origin credit in adaptations.
+
 ## Play
 
 https://sheiszoe-art.github.io/open-sea-school/
