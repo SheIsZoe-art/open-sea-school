@@ -27,3 +27,6 @@ CREDITS.html : origines, liens vers KETH et crédits.
 LICENSE et RIGHTS.md : MIT et portée des droits.
 
 La traduction automatique a été revue et complétée, notamment pour l’humour et les consignes. Les vérifications automatiques ne remplacent pas une validation pédagogique et des essais d’accessibilité sur appareils réels.
+
+RÉVISION ÉDITORIALE FRANÇAISE
+Les titres des 810 cours, les explications de notions, les projets, les aides et les principales consignes ont été réécrits pour cette édition. Les exemples servant à apprendre l’anglais restent en anglais. Les données de progression et les identifiants des cours sont conservés. Cette relecture ne remplace pas une validation pédagogique indépendante.
